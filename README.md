@@ -2,8 +2,8 @@
 Idea for the game was inspired by a google game ad I saw a while back on my phone
 
 
-Game includes:
-Main Menu
+Game includes:\n
+Main Menu\n
 Pause Menu
 High score
 GDD
