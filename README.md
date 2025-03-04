@@ -48,7 +48,7 @@ Pygame library
 # Clone the repository:
 
     ```bash
-    git clone [repository URL]
+    git clone https://github.com/IKRiku/Block-Logic
     cd BlockLogic
     ```
 # Run the game:
